@@ -5,6 +5,8 @@
     prix: "699.99"
     quantite: 50
     categorie: 1
+    date_peremtion: null
+    emplacement: "Rayon 1"
 
 - model: app.produit
   pk: 2
@@ -13,6 +15,8 @@
     prix: "1299.99"
     quantite: 30
     categorie: 1
+    date_peremtion: null
+    emplacement: "Rayon 1"
 
 - model: app.produit
   pk: 3
@@ -21,6 +25,9 @@
     prix: "1.99"
     quantite: 200
     categorie: 2
+    date_peremtion: "2025-12-31T23:59:59Z"
+    emplacement: "Rayon 5"
+
 - model: app.produit
   pk: 4
   fields:
@@ -28,6 +35,8 @@
     prix: "149.99"
     quantite: 100
     categorie: 1
+    date_peremtion: null
+    emplacement: "Rayon 2"
 
 - model: app.produit
   pk: 5
@@ -36,6 +45,8 @@
     prix: "249.99"
     quantite: 75
     categorie: 1
+    date_peremtion: null
+    emplacement: "Rayon 2"
 
 - model: app.produit
   pk: 6
@@ -44,6 +55,8 @@
     prix: "499.99"
     quantite: 60
     categorie: 1
+    date_peremtion: null
+    emplacement: "Rayon 3"
 
 - model: app.produit
   pk: 7
@@ -52,6 +65,8 @@
     prix: "14.99"
     quantite: 120
     categorie: 3
+    date_peremtion: null
+    emplacement: "Rayon 6"
 
 - model: app.produit
   pk: 8
@@ -60,6 +75,8 @@
     prix: "19.99"
     quantite: 200
     categorie: 4
+    date_peremtion: null
+    emplacement: "Rayon 7"
 
 - model: app.produit
   pk: 9
@@ -68,3 +85,5 @@
     prix: "89.99"
     quantite: 150
     categorie: 4
+    date_peremtion: null
+    emplacement: "Rayon 7"

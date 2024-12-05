@@ -4,60 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57ba5b56-fc3d-41f2-8543-be827ad48c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GrossiteBack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GrossiteBack/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GrossiteBack/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GrossiteBack/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GrossiteBack/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GrossiteBack/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/fixtures/categories.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/fixtures/clients.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/fixtures/orders.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/fixtures/produits.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/fixtures/users.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/categories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/clients.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/produits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/permissions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/permissions/categories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/permissions/clients.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/permissions/orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/permissions/produits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/permissions/users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/serializers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/serializers/categories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/serializers/clients.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/serializers/orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/serializers/produits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/serializers/users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/categories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/clients.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/produits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="57ba5b56-fc3d-41f2-8543-be827ad48c8c" name="Changes" comment="finish">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6ae9aa3f-8292-42c1-83fa-688be376da29.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6ae9aa3f-8292-42c1-83fa-688be376da29.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6ae9aa3f-8292-42c1-83fa-688be376da29/storage_v2/_src_/database/BackGrossite._bFj-Q/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6ae9aa3f-8292-42c1-83fa-688be376da29/storage_v2/_src_/database/BackGrossite._bFj-Q/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fixtures/produits.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app/fixtures/produits.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/produits.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/produits.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +33,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "pileemile"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pileemile/GrossiteBack",
+    "accountId": "d3349b93-68c1-40c4-b9bd-20b1806ec6d9"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -158,7 +126,17 @@
       <updated>1733309167331</updated>
       <workItem from="1733309199189" duration="2642000" />
       <workItem from="1733312047837" duration="8189000" />
+      <workItem from="1733397910213" duration="9940000" />
     </task>
+    <task id="LOCAL-00001" summary="finish">
+      <option name="closed" value="true" />
+      <created>1733397993080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733397993080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,5 +152,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
   </component>
 </project>
