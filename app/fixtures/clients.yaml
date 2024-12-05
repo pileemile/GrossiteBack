@@ -1,0 +1,34 @@
+- model: app.Client
+  pk: 1
+  fields:
+    nom: Societe Alpha
+    adresse: 123 Rue Principale, Paris, France
+    siret: "12345678901234"
+
+- model: app.Client
+  pk: 2
+  fields:
+    nom: Entreprise Beta
+    adresse: 456 Avenue de l Industrie, Lyon, France
+    siret: "98765432109876"
+
+- model: app.Client
+  pk: 3
+  fields:
+    nom: StartUp Gamma
+    adresse: 789 Boulevard de la Technologie, Marseille, France
+    siret: "19283746501928"
+
+- model: app.Client
+  pk: 4
+  fields:
+    nom: Multinationale Delta
+    adresse: 321 Route des Nations, Lille, France
+    siret: "56473829102873"
+
+- model: app.Client
+  pk: 5
+  fields:
+    nom: Société Epsilon
+    adresse: 12 Rue de la Modernité, Toulouse, France
+    siret: "10293847561028"

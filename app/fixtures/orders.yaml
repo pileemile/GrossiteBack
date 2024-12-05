@@ -1,0 +1,44 @@
+- model: app.order
+  pk: 1
+  fields:
+    client: 1
+    produit: 1
+    date_commande: 2024-12-01T12:00:00Z
+    quantite: 5
+    statut: EN ATTENTE
+
+- model: app.order
+  pk: 2
+  fields:
+    client: 2
+    produit: 2
+    date_commande: 2024-12-02T14:00:00Z
+    quantite: 10
+    statut: TRAITÉE
+
+- model: app.order
+  pk: 3
+  fields:
+    client: 3
+    produit: 3
+    date_commande: 2024-12-03T10:30:00Z
+    quantite: 20
+    statut: EN ATTENTE
+
+- model: app.order
+  pk: 4
+  fields:
+    client: 4
+    produit: 4
+    date_commande: 2024-12-03T16:45:00Z
+    quantite: 3
+    statut: ENVOYÉE
+
+- model: app.order
+  pk: 5
+  fields:
+    client: 5
+    produit: 5
+    date_commande: 2024-12-04T09:00:00Z
+    quantite: 7
+    statut: EN ATTENTE

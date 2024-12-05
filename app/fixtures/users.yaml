@@ -1,0 +1,12 @@
+- model: app.user
+  pk: 1
+  fields:
+    username: admin
+    password: "pbkdf2_sha256$720000$3RGbmzPHfHHUinSbZh5cmR$RhmMhr380kx2eNYmVoRETg/i9ftBpNGzTQBRJpQK+uQ="
+
+
+- model: app.user
+  pk: 2
+  fields:
+    username: employee1
+    password: "pbkdf2_sha256$720000$3RGbmzPHfHHUinSbZh5cmR$RhmMhr380kx2eNYmVoRETg/i9ftBpNGzTQBRJpQK+uQ="

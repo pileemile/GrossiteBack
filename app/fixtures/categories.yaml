@@ -1,0 +1,28 @@
+- model: app.categorie
+  pk: 1
+  fields:
+    nom: Electronique
+
+- model: app.categorie
+  pk: 2
+  fields:
+    nom: Alimentation
+
+- model: app.categorie
+  pk: 3
+  fields:
+    nom: Vetements
+- model: app.categorie
+  pk: 4
+  fields:
+    nom: Sports
+
+- model: app.categorie
+  pk: 5
+  fields:
+    nom: Livres
+
+- model: app.categorie
+  pk: 6
+  fields:
+    nom: Maison
